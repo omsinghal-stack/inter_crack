@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "cname": "Accenture"
+    },
+    {
+        "id": 2,
+        "cname": "Capgemini"
+    },
+    {
+        "id": 3,
+        "cname": "Tata Consultancy Services"
+    },
+    {
+        "id": 4,
+        "cname": "Tech Mahindra"
+    },
+    {
+        "id": 5,
+        "cname": "Infosys"
+    }
+]

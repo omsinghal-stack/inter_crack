@@ -1,0 +1,584 @@
+[
+    {
+        "cname": "infosys",
+        "type": "technical",
+        "question": "What is the difference between a process and a thread?",
+        "answer": "A process is an independent program in execution with its own memory space, while a thread is a lightweight process that shares memory space with other threads of the same process."
+    },
+    {
+        "cname": "infosys",
+        "type": "technical",
+        "question": "Explain the OOP principles in Java.",
+        "answer": "The four main OOP principles are: 1) Encapsulation: Bundling data and methods within a class, 2) Inheritance: Deriving new classes from existing ones, 3) Polymorphism: One interface, multiple implementations, and 4) Abstraction: Hiding implementation details and showing only the functionality."
+    },
+    {
+        "cname": "infosys",
+        "type": "technical",
+        "question": "What is the difference between SQL and NoSQL databases?",
+        "answer": "SQL databases are relational and use structured query language with fixed schemas, while NoSQL databases are non-relational, schema-less, and optimized for unstructured or semi-structured data."
+    },
+    {
+        "cname": "infosys",
+        "type": "technical",
+        "question": "Explain the difference between GET and POST methods in HTTP.",
+        "answer": "GET is used to retrieve data from a server and appends data in the URL, making it visible. POST sends data in the request body, making it secure for transferring sensitive data."
+    },
+    {
+        "cname": "infosys",
+        "type": "technical",
+        "question": "What are joins in SQL? Name the types of joins.",
+        "answer": "Joins are used to combine rows from two or more tables based on a related column. Types include INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, and CROSS JOIN."
+    },
+    {
+        "cname": "infosys",
+        "type": "technical",
+        "question": "What is polymorphism in OOP? Provide an example.",
+        "answer": "Polymorphism allows methods to perform different tasks based on the object that invokes them. Example: A parent class 'Shape' with a method 'draw()' can be overridden in subclasses like 'Circle' and 'Rectangle' to draw specific shapes."
+    },
+    {
+        "cname": "infosys",
+        "type": "technical",
+        "question": "Explain the concept of recursion with an example.",
+        "answer": "Recursion is a technique where a function calls itself. Example: Calculating the factorial of a number: `factorial(n) = n * factorial(n-1)` with the base case `factorial(1) = 1`."
+    },
+    {
+        "cname": "infosys",
+        "type": "technical",
+        "question": "What is the difference between a stack and a queue?",
+        "answer": "A stack is a LIFO (Last In, First Out) structure, where the last element added is the first to be removed. A queue is a FIFO (First In, First Out) structure, where the first element added is the first to be removed."
+    },
+    {
+        "cname": "infosys",
+        "type": "technical",
+        "question": "What is the purpose of the 'finally' block in Java?",
+        "answer": "The 'finally' block is used to execute code after a try-catch block, regardless of whether an exception was thrown. It is typically used for cleanup actions like closing files or releasing resources."
+    },
+    {
+        "cname": "infosys",
+        "type": "technical",
+        "question": "What is the difference between an abstract class and an interface in Java?",
+        "answer": "An abstract class can have both abstract and concrete methods and can maintain state through fields. An interface, before Java 8, only allowed abstract methods and no fields, but now supports default and static methods."
+    },
+    {
+        "cname": "accenture",
+        "type": "technical",
+        "question": "What is cloud computing, and what are its main types?",
+        "answer": "Cloud computing delivers services like servers, storage, databases, and networking over the internet. Its main types are: 1) Public Cloud: Shared resources, 2) Private Cloud: Dedicated to one organization, and 3) Hybrid Cloud: Combination of public and private clouds."
+    },
+    {
+        "cname": "accenture",
+        "type": "technical",
+        "question": "Explain the difference between microservices and monolithic architecture.",
+        "answer": "Monolithic architecture has a single, unified codebase, while microservices divide applications into small, independent services that can be developed, deployed, and scaled independently."
+    },
+    {
+        "cname": "accenture",
+        "type": "technical",
+        "question": "What are the key features of RESTful APIs?",
+        "answer": "Key features of RESTful APIs include stateless communication, use of HTTP methods (GET, POST, PUT, DELETE), resource-based URLs, and data format support like JSON and XML."
+    },
+    {
+        "cname": "accenture",
+        "type": "technical",
+        "question": "What is Agile methodology, and why is it widely used?",
+        "answer": "Agile is an iterative and incremental development methodology that promotes flexibility and collaboration. It is widely used because it adapts to changing requirements, ensures faster delivery, and improves customer satisfaction."
+    },
+    {
+        "cname": "accenture",
+        "type": "technical",
+        "question": "What is the difference between Docker and Kubernetes?",
+        "answer": "Docker is a containerization platform used to package applications into containers. Kubernetes is a container orchestration tool that manages and scales containerized applications across clusters."
+    },
+    {
+        "cname": "accenture",
+        "type": "technical",
+        "question": "Explain normalization in databases. What are the different normal forms?",
+        "answer": "Normalization organizes data in a database to reduce redundancy and improve consistency. The common normal forms are: 1) First Normal Form (1NF), 2) Second Normal Form (2NF), 3) Third Normal Form (3NF), and 4) Boyce-Codd Normal Form (BCNF)."
+    },
+    {
+        "cname": "accenture",
+        "type": "technical",
+        "question": "What is the difference between compile-time and run-time errors?",
+        "answer": "Compile-time errors occur during code compilation and prevent the program from running, e.g., syntax errors. Run-time errors occur during program execution, e.g., dividing by zero or accessing invalid memory."
+    },
+    {
+        "cname": "accenture",
+        "type": "technical",
+        "question": "What is the purpose of middleware in software development?",
+        "answer": "Middleware acts as a bridge between applications, enabling communication and data management. Examples include database middleware, message brokers, and API gateways."
+    },
+    {
+        "cname": "accenture",
+        "type": "technical",
+        "question": "Explain the concept of version control. Why is Git widely used?",
+        "answer": "Version control tracks changes to files, enabling collaboration and rollback to previous states. Git is widely used because it supports distributed version control, is fast, and integrates well with popular platforms like GitHub."
+    },
+    {
+        "cname": "accenture",
+        "type": "technical",
+        "question": "What is the difference between synchronous and asynchronous programming?",
+        "answer": "Synchronous programming executes tasks sequentially, blocking execution until a task completes. Asynchronous programming allows tasks to run independently, enabling non-blocking and efficient operations, often using callbacks, promises, or async/await."
+    },
+    {
+        "cname": "tcs",
+        "type": "technical",
+        "question": "What are the main differences between a process and a thread?",
+        "answer": "A process is an independent program that runs in its own memory space, while a thread is a lightweight sub-process that shares the memory space of the parent process."
+    },
+    {
+        "cname": "tcs",
+        "type": "technical",
+        "question": "What is dependency injection in Spring Framework?",
+        "answer": "Dependency Injection is a design pattern in the Spring Framework that allows the injection of objects into a class rather than creating the objects manually. It promotes loose coupling and easier testing."
+    },
+    {
+        "cname": "tcs",
+        "type": "technical",
+        "question": "What is the difference between '==' and 'equals()' method in Java?",
+        "answer": "'==' checks for reference equality (if two references point to the same object), while 'equals()' checks for content equality (if two objects have the same data)."
+    },
+    {
+        "cname": "tcs",
+        "type": "technical",
+        "question": "What is the difference between a stack and a queue data structure?",
+        "answer": "A stack follows Last In First Out (LIFO) order, while a queue follows First In First Out (FIFO) order."
+    },
+    {
+        "cname": "tcs",
+        "type": "technical",
+        "question": "What are the advantages of using cloud computing?",
+        "answer": "Cloud computing offers advantages such as cost savings, scalability, flexibility, accessibility, and disaster recovery."
+    },
+    {
+        "cname": "tcs",
+        "type": "technical",
+        "question": "Explain the concept of polymorphism in object-oriented programming.",
+        "answer": "Polymorphism allows methods to behave differently based on the object that invokes them, enabling one interface to be used for a general class of actions."
+    },
+    {
+        "cname": "tcs",
+        "type": "technical",
+        "question": "What is the difference between a shallow copy and a deep copy in programming?",
+        "answer": "A shallow copy copies only the reference addresses of objects, while a deep copy creates a new object and copies the actual data."
+    },
+    {
+        "cname": "tcs",
+        "type": "technical",
+        "question": "What are the different types of joins in SQL?",
+        "answer": "The different types of joins are INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN."
+    },
+    {
+        "cname": "tcs",
+        "type": "technical",
+        "question": "What is the difference between NoSQL and SQL databases?",
+        "answer": "SQL databases are relational and use structured query language, whereas NoSQL databases are non-relational, handle unstructured data, and are more scalable."
+    },
+    {
+        "cname": "tcs",
+        "type": "technical",
+        "question": "What is the purpose of garbage collection in Java?",
+        "answer": "Garbage collection in Java is used to automatically manage memory by clearing unused objects to free up resources."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "technical",
+        "question": "What are the key features of Agile methodology?",
+        "answer": "Agile methodology emphasizes flexibility, iterative development, collaboration, and frequent delivery of small increments of software."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "technical",
+        "question": "What is RESTful API and how is it different from SOAP?",
+        "answer": "RESTful APIs use HTTP methods and are stateless, providing a lightweight, scalable solution. SOAP (Simple Object Access Protocol) is a protocol with a stricter set of rules, usually requiring XML-based messaging."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "technical",
+        "question": "Explain the concept of Continuous Integration (CI) and Continuous Deployment (CD).",
+        "answer": "CI is the practice of automatically integrating code changes into a shared repository frequently. CD is the practice of automatically deploying those changes to production after they pass testing."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "technical",
+        "question": "What is a race condition, and how can it be prevented?",
+        "answer": "A race condition occurs when multiple threads access shared resources simultaneously, leading to unpredictable results. It can be prevented using synchronization techniques like locks or semaphores."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "technical",
+        "question": "What is a virtual machine, and how does it differ from a container?",
+        "answer": "A virtual machine runs an entire operating system on top of the host OS, while a container only includes the application and necessary dependencies, offering greater efficiency and faster startup times."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "technical",
+        "question": "What is a SQL injection attack, and how can it be prevented?",
+        "answer": "SQL injection occurs when an attacker inserts malicious SQL code into an input field. It can be prevented by using prepared statements, parameterized queries, and input validation."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "technical",
+        "question": "Explain the concept of version control and why Git is popular.",
+        "answer": "Version control is a system for managing changes to code, enabling collaboration and rollback. Git is popular due to its distributed nature, speed, and support for branching and merging."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "technical",
+        "question": "What is cloud-native development?",
+        "answer": "Cloud-native development refers to building applications that are designed to run in the cloud, taking advantage of cloud resources like scalability, availability, and distributed architecture."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "technical",
+        "question": "What is the difference between an abstract class and an interface in Java?",
+        "answer": "An abstract class can have both abstract and concrete methods, while an interface can only have abstract methods (in versions prior to Java 8). An interface supports multiple inheritance, whereas an abstract class supports single inheritance."
+    },
+    {
+        "cname": "capgemini",
+        "type": "technical",
+        "question": "What is Big Data and how is it processed?",
+        "answer": "Big Data refers to vast amounts of data that can't be processed by traditional data processing tools. It is typically processed using distributed systems like Hadoop and Spark."
+    },
+    {
+        "cname": "capgemini",
+        "type": "technical",
+        "question": "What are WebSockets, and how do they differ from HTTP?",
+        "answer": "WebSockets provide a persistent, bidirectional communication channel between the client and server, while HTTP is a stateless, request-response protocol."
+    },
+    {
+        "cname": "capgemini",
+        "type": "technical",
+        "question": "Explain the difference between supervised and unsupervised learning.",
+        "answer": "Supervised learning uses labeled data to train a model, while unsupervised learning finds patterns in data without labels, such as clustering or association."
+    },
+    {
+        "cname": "capgemini",
+        "type": "technical",
+        "question": "What is Docker, and how does it work?",
+        "answer": "Docker is a platform that uses containers to package applications and their dependencies into isolated environments. It ensures consistency across multiple environments."
+    },
+    {
+        "cname": "capgemini",
+        "type": "technical",
+        "question": "What is the purpose of the 'final' keyword in Java?",
+        "answer": "The 'final' keyword in Java can be used to mark a variable as constant, a method as non-overridable, or a class as non-subclassable."
+    },
+    {
+        "cname": "capgemini",
+        "type": "technical",
+        "question": "What is the difference between a linked list and an array?",
+        "answer": "An array is a fixed-size data structure with elements stored contiguously in memory, while a linked list is a dynamic structure where each element points to the next."
+    },
+    {
+        "cname": "capgemini",
+        "type": "technical",
+        "question": "What are the four pillars of object-oriented programming?",
+        "answer": "The four pillars of OOP are Encapsulation, Inheritance, Polymorphism, and Abstraction."
+    },
+    {
+        "cname": "capgemini",
+        "type": "technical",
+        "question": "What is the difference between a shallow copy and a deep copy in Python?",
+        "answer": "A shallow copy creates a new object but does not copy the nested objects, while a deep copy creates new objects recursively for nested structures."
+    },
+    {
+        "cname": "accenture",
+        "type": "hr",
+        "question": "Why do you want to work at Accenture?",
+        "answer": "Discuss Accenture's focus on innovation, diverse work culture, and opportunities for personal and professional growth."
+    },
+    {
+        "cname": "accenture",
+        "type": "hr",
+        "question": "What do you know about Accenture's core values?",
+        "answer": "Mention Accenture's values like client value creation, integrity, and diversity, and how they resonate with your own principles."
+    },
+    {
+        "cname": "accenture",
+        "type": "hr",
+        "question": "How do you deal with workplace stress?",
+        "answer": "Explain your strategies such as effective time management, prioritization, and taking short breaks to stay productive."
+    },
+    {
+        "cname": "accenture",
+        "type": "hr",
+        "question": "What do you think sets Accenture apart from its competitors?",
+        "answer": "Highlight Accenture's global reach, focus on technology-driven solutions, and customer-centric approach."
+    },
+    {
+        "cname": "accenture",
+        "type": "hr",
+        "question": "How do you handle working on multiple projects simultaneously?",
+        "answer": "Discuss your ability to prioritize tasks, manage time effectively, and use organizational tools to stay on top of deadlines."
+    },
+    {
+        "cname": "accenture",
+        "type": "hr",
+        "question": "Can you describe a time when you had to resolve a conflict at work?",
+        "answer": "Use the STAR method to explain the conflict, how you approached it with diplomacy, and the positive outcome achieved."
+    },
+    {
+        "cname": "accenture",
+        "type": "hr",
+        "question": "What does diversity and inclusion mean to you?",
+        "answer": "Emphasize the importance of creating a welcoming environment where everyone can contribute and feel valued."
+    },
+    {
+        "cname": "accenture",
+        "type": "hr",
+        "question": "What steps do you take to keep improving your skills?",
+        "answer": "Mention continuous learning through online courses, certifications, and staying updated with industry trends."
+    },
+    {
+        "cname": "accenture",
+        "type": "hr",
+        "question": "What challenges are you looking for in this role?",
+        "answer": "Discuss your desire to take on new challenges that help you grow professionally and contribute to the company's success."
+    },
+    {
+        "cname": "accenture",
+        "type": "hr",
+        "question": "How would you describe your ideal manager?",
+        "answer": "Mention qualities like clear communication, supportiveness, and encouraging professional growth."
+    },
+    {
+        "cname": "infosys",
+        "type": "hr",
+        "question": "Why do you want to join Infosys?",
+        "answer": "Discuss Infosys's reputation for innovation, learning opportunities, and its ethical work environment."
+    },
+    {
+        "cname": "infosys",
+        "type": "hr",
+        "question": "What do you know about Infosys's recent achievements?",
+        "answer": "Mention recent awards, projects, or innovations by Infosys that demonstrate your research and interest in the company."
+    },
+    {
+        "cname": "infosys",
+        "type": "hr",
+        "question": "How do you handle feedback from peers or managers?",
+        "answer": "Discuss accepting feedback positively, analyzing it objectively, and implementing suggestions for improvement."
+    },
+    {
+        "cname": "infosys",
+        "type": "hr",
+        "question": "What makes you a good fit for this role at Infosys?",
+        "answer": "Highlight your skills, experiences, and values that align with Infosys's goals and job requirements."
+    },
+    {
+        "cname": "infosys",
+        "type": "hr",
+        "question": "How do you ensure effective communication in a team?",
+        "answer": "Mention practices like active listening, clarity in messaging, and maintaining open channels of communication."
+    },
+    {
+        "cname": "infosys",
+        "type": "hr",
+        "question": "Can you share an experience where you exceeded expectations?",
+        "answer": "Use the STAR method to describe a situation where you went beyond your responsibilities to deliver outstanding results."
+    },
+    {
+        "cname": "infosys",
+        "type": "hr",
+        "question": "What do you think is the most important quality for success in this role?",
+        "answer": "Discuss qualities like adaptability, problem-solving, and effective teamwork, backed by examples."
+    },
+    {
+        "cname": "infosys",
+        "type": "hr",
+        "question": "How do you manage your time effectively?",
+        "answer": "Explain how you use tools, prioritize tasks, and maintain focus to manage your time and meet deadlines."
+    },
+    {
+        "cname": "infosys",
+        "type": "hr",
+        "question": "What inspires you to keep learning and growing?",
+        "answer": "Discuss your passion for knowledge, curiosity, and the desire to stay relevant in a rapidly changing industry."
+    },
+    {
+        "cname": "infosys",
+        "type": "hr",
+        "question": "Do you have any questions for us?",
+        "answer": "Prepare thoughtful questions about Infosys's work culture, career development programs, or projects to show your genuine interest."
+    },
+    {
+        "cname": "tcs",
+        "type": "hr",
+        "question": "Tell me about yourself.",
+        "answer": "This is an open-ended question to describe your background, education, skills, and experiences relevant to the job. Keep it concise and professional."
+    },
+    {
+        "cname": "tcs",
+        "type": "hr",
+        "question": "Why do you want to join TCS?",
+        "answer": "Discuss TCS's reputation, innovation, work culture, and career growth opportunities. Relate how your goals align with the company's vision."
+    },
+    {
+        "cname": "tcs",
+        "type": "hr",
+        "question": "What are your strengths and weaknesses?",
+        "answer": "Mention key strengths like problem-solving or adaptability with examples. For weaknesses, state areas of improvement and how you're working on them."
+    },
+    {
+        "cname": "tcs",
+        "type": "hr",
+        "question": "Where do you see yourself in five years?",
+        "answer": "Focus on realistic career aspirations aligned with the company's growth opportunities, emphasizing continuous learning and development."
+    },
+    {
+        "cname": "tcs",
+        "type": "hr",
+        "question": "How do you handle criticism?",
+        "answer": "Mention that you take constructive criticism positively, learn from feedback, and use it to improve your performance."
+    },
+    {
+        "cname": "tcs",
+        "type": "hr",
+        "question": "Describe a challenging situation you faced and how you handled it.",
+        "answer": "Share a specific example using the STAR method (Situation, Task, Action, Result) to illustrate your problem-solving skills."
+    },
+    {
+        "cname": "tcs",
+        "type": "hr",
+        "question": "Why should we hire you?",
+        "answer": "Highlight your skills, experiences, and achievements that make you a great fit for the role and how you can contribute to TCS."
+    },
+    {
+        "cname": "tcs",
+        "type": "hr",
+        "question": "What do you know about TCS?",
+        "answer": "Mention TCS's history, services, industry presence, innovations, and recent achievements to demonstrate your research and interest."
+    },
+    {
+        "cname": "tcs",
+        "type": "hr",
+        "question": "How do you prioritize your tasks under pressure?",
+        "answer": "Explain your approach to time management, such as using tools, prioritizing tasks based on deadlines, and staying focused on goals."
+    },
+    {
+        "cname": "tcs",
+        "type": "hr",
+        "question": "Do you have any questions for us?",
+        "answer": "Prepare thoughtful questions about the role, team dynamics, or company culture to show your genuine interest in the job."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "hr",
+        "question": "What motivates you to work every day?",
+        "answer": "Discuss personal and professional drivers like learning, career growth, and contributing to impactful projects."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "hr",
+        "question": "How do you handle conflicts in a team?",
+        "answer": "Explain how you address conflicts with open communication, empathy, and finding mutually beneficial solutions."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "hr",
+        "question": "What do you know about Tech Mahindra's values and culture?",
+        "answer": "Highlight key values like innovation, customer focus, and integrity, and relate them to your own principles."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "hr",
+        "question": "Can you share an example of how you worked in a team?",
+        "answer": "Use the STAR method to describe a specific scenario where you collaborated effectively to achieve a common goal."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "hr",
+        "question": "How do you adapt to new environments?",
+        "answer": "Mention instances where you quickly adjusted to new teams, technologies, or work cultures and delivered results."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "hr",
+        "question": "What is your biggest professional achievement?",
+        "answer": "Describe a specific accomplishment that highlights your skills, initiative, and contributions to a project or organization."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "hr",
+        "question": "How do you ensure work-life balance?",
+        "answer": "Share strategies like time management, prioritization, and maintaining a healthy lifestyle to stay productive and balanced."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "hr",
+        "question": "What are your salary expectations?",
+        "answer": "Provide a reasonable range based on industry standards and your skills but express flexibility and interest in the role."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "hr",
+        "question": "How do you keep yourself updated with industry trends?",
+        "answer": "Mention following blogs, attending webinars, taking online courses, or participating in tech communities to stay informed."
+    },
+    {
+        "cname": "tech_mahindra",
+        "type": "hr",
+        "question": "What makes you unique as a candidate?",
+        "answer": "Discuss your unique skills, experiences, or perspective that add value to the role and align with Tech Mahindra's goals."
+    },
+    {
+        "cname": "capgemini",
+        "type": "hr",
+        "question": "What interests you about working at Capgemini?",
+        "answer": "Highlight Capgemini's global presence, focus on innovation, and opportunities for career growth as key motivators."
+    },
+    {
+        "cname": "capgemini",
+        "type": "hr",
+        "question": "How do you handle tight deadlines?",
+        "answer": "Share your approach to planning, prioritizing tasks, and maintaining focus to meet deadlines effectively."
+    },
+    {
+        "cname": "capgemini",
+        "type": "hr",
+        "question": "Describe your ideal work environment.",
+        "answer": "Explain your preference for a collaborative, innovative, and growth-oriented work environment that aligns with Capgemini's culture."
+    },
+    {
+        "cname": "capgemini",
+        "type": "hr",
+        "question": "How do you handle failure?",
+        "answer": "Mention learning from mistakes, identifying areas for improvement, and applying those lessons to future challenges."
+    },
+    {
+        "cname": "capgemini",
+        "type": "hr",
+        "question": "What do you think are the most important skills for this role?",
+        "answer": "Discuss technical and soft skills relevant to the job, such as communication, adaptability, and teamwork."
+    },
+    {
+        "cname": "capgemini",
+        "type": "hr",
+        "question": "How do you handle repetitive tasks?",
+        "answer": "Explain how you stay focused and motivated by finding ways to improve efficiency or automate repetitive processes."
+    },
+    {
+        "cname": "capgemini",
+        "type": "hr",
+        "question": "How would you describe your leadership style?",
+        "answer": "Share a specific example of leading a team, emphasizing collaboration, accountability, and achieving goals together."
+    },
+    {
+        "cname": "capgemini",
+        "type": "hr",
+        "question": "How do you handle criticism from a colleague or manager?",
+        "answer": "Discuss staying calm, analyzing the feedback objectively, and using it constructively to improve your performance."
+    },
+    {
+        "cname": "capgemini",
+        "type": "hr",
+        "question": "What do you consider your biggest strength?",
+        "answer": "Identify a key strength such as problem-solving or adaptability and provide examples of how it has benefited your work."
+    },
+    {
+        "cname": "capgemini",
+        "type": "hr",
+        "question": "Do you see yourself as a team player or an individual contributor?",
+        "answer": "Explain your ability to balance teamwork with independent contributions, highlighting examples from your experience."
+    }
+]
