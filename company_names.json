@@ -18,5 +18,185 @@
     {
         "id": 5,
         "cname": "Infosys"
+    },
+    {
+        "id": 6,
+        "cname": "Cognizant"
+    },
+    {
+        "id": 7,
+        "cname": "Wipro"
+    },
+    {
+        "id": 8,
+        "cname": "HCL Technologies"
+    },
+    {
+        "id": 9,
+        "cname": "IBM"
+    },
+    {
+        "id": 10,
+        "cname": "Oracle"
+    },
+    {
+        "id": 11,
+        "cname": "SAP"
+    },
+    {
+        "id": 12,
+        "cname": "Larsen & Toubro Infotech"
+    },
+    {
+        "id": 13,
+        "cname": "Mindtree"
+    },
+    {
+        "id": 14,
+        "cname": "DXC Technology"
+    },
+    {
+        "id": 15,
+        "cname": "Persistent Systems"
+    },
+    {
+        "id": 16,
+        "cname": "Mphasis"
+    },
+    {
+        "id": 17,
+        "cname": "Zensar Technologies"
+    },
+    {
+        "id": 18,
+        "cname": "NIIT Technologies"
+    },
+    {
+        "id": 19,
+        "cname": "Syntel"
+    },
+    {
+        "id": 20,
+        "cname": "UST Global"
+    },
+    {
+        "id": 21,
+        "cname": "Cognizant Technology Solutions"
+    },
+    {
+        "id": 22,
+        "cname": "CureMetrix"
+    },
+    {
+        "id": 23,
+        "cname": "Techwave"
+    },
+    {
+        "id": 24,
+        "cname": "Veeva Systems"
+    },
+    {
+        "id": 25,
+        "cname": "Kyndryl"
+    },
+    {
+        "id": 26,
+        "cname": "Salesforce"
+    },
+    {
+        "id": 27,
+        "cname": "VMware"
+    },
+    {
+        "id": 28,
+        "cname": "Xerox"
+    },
+    {
+        "id": 29,
+        "cname": "Atos"
+    },
+    {
+        "id": 30,
+        "cname": "GlobalLogic"
+    },
+    {
+        "id": 31,
+        "cname": "QuintilesIMS"
+    },
+    {
+        "id": 32,
+        "cname": "CGI Group"
+    },
+    {
+        "id": 33,
+        "cname": "Fujitsu"
+    },
+    {
+        "id": 34,
+        "cname": "DXC"
+    },
+    {
+        "id": 35,
+        "cname": "Sierra-Cedar"
+    },
+    {
+        "id": 36,
+        "cname": "Wavestone"
+    },
+    {
+        "id": 37,
+        "cname": "Red Hat"
+    },
+    {
+        "id": 38,
+        "cname": "KPMG"
+    },
+    {
+        "id": 39,
+        "cname": "Accenture Interactive"
+    },
+    {
+        "id": 40,
+        "cname": "Syncron"
+    },
+    {
+        "id": 41,
+        "cname": "Deloitte"
+    },
+    {
+        "id": 42,
+        "cname": "Capco"
+    },
+    {
+        "id": 43,
+        "cname": "Slalom Consulting"
+    },
+    {
+        "id": 44,
+        "cname": "Epam Systems"
+    },
+    {
+        "id": 45,
+        "cname": "Nagarro"
+    },
+    {
+        "id": 46,
+        "cname": "Hewlett Packard Enterprise"
+    },
+    {
+        "id": 47,
+        "cname": "JDA Software"
+    },
+    {
+        "id": 48,
+        "cname": "Shopify"
+    },
+    {
+        "id": 49,
+        "cname": "Square"
+    },
+    {
+        "id": 50,
+        "cname": "LinkedIn"
     }
 ]
