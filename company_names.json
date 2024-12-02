@@ -1,198 +1,202 @@
 [
     {
         "id": 1,
-        "cname": "Accenture"
+        "cname": "accenture"
     },
     {
         "id": 2,
-        "cname": "Capgemini"
+        "cname": "capgemini"
     },
     {
         "id": 3,
-        "cname": "Tata Consultancy Services"
+        "cname": "tataconsultancyservices"
     },
     {
         "id": 4,
-        "cname": "Tech Mahindra"
+        "cname": "techmahindra"
     },
     {
         "id": 5,
-        "cname": "Infosys"
+        "cname": "infosys"
     },
     {
         "id": 6,
-        "cname": "Cognizant"
+        "cname": "cognizant"
     },
     {
         "id": 7,
-        "cname": "Wipro"
+        "cname": "wipro"
     },
     {
         "id": 8,
-        "cname": "HCL Technologies"
+        "cname": "hcltechnologies"
     },
     {
         "id": 9,
-        "cname": "IBM"
+        "cname": "ibm"
     },
     {
         "id": 10,
-        "cname": "Oracle"
+        "cname": "oracle"
     },
     {
         "id": 11,
-        "cname": "SAP"
+        "cname": "sap"
     },
     {
         "id": 12,
-        "cname": "Larsen & Toubro Infotech"
+        "cname": "larsentoubroinfotech"
     },
     {
         "id": 13,
-        "cname": "Mindtree"
+        "cname": "mindtree"
     },
     {
         "id": 14,
-        "cname": "DXC Technology"
+        "cname": "dxctechnology"
     },
     {
         "id": 15,
-        "cname": "Persistent Systems"
+        "cname": "persistentsystems"
     },
     {
         "id": 16,
-        "cname": "Mphasis"
+        "cname": "mphasis"
     },
     {
         "id": 17,
-        "cname": "Zensar Technologies"
+        "cname": "zensartechnologies"
     },
     {
         "id": 18,
-        "cname": "NIIT Technologies"
+        "cname": "niittechnologies"
     },
     {
         "id": 19,
-        "cname": "Syntel"
+        "cname": "syntel"
     },
     {
         "id": 20,
-        "cname": "UST Global"
+        "cname": "ustglobal"
     },
     {
         "id": 21,
-        "cname": "Cognizant Technology Solutions"
+        "cname": "cognizanttechnologysolutions"
     },
     {
         "id": 22,
-        "cname": "CureMetrix"
+        "cname": "curemetrix"
     },
     {
         "id": 23,
-        "cname": "Techwave"
+        "cname": "techwave"
     },
     {
         "id": 24,
-        "cname": "Veeva Systems"
+        "cname": "veevasystems"
     },
     {
         "id": 25,
-        "cname": "Kyndryl"
+        "cname": "kyndryl"
     },
     {
         "id": 26,
-        "cname": "Salesforce"
+        "cname": "salesforce"
     },
     {
         "id": 27,
-        "cname": "VMware"
+        "cname": "vmware"
     },
     {
         "id": 28,
-        "cname": "Xerox"
+        "cname": "xerox"
     },
     {
         "id": 29,
-        "cname": "Atos"
+        "cname": "atos"
     },
     {
         "id": 30,
-        "cname": "GlobalLogic"
+        "cname": "globallogic"
     },
     {
         "id": 31,
-        "cname": "QuintilesIMS"
+        "cname": "quintilesims"
     },
     {
         "id": 32,
-        "cname": "CGI Group"
+        "cname": "cgigroup"
     },
     {
         "id": 33,
-        "cname": "Fujitsu"
+        "cname": "fujitsu"
     },
     {
         "id": 34,
-        "cname": "DXC"
+        "cname": "dxc"
     },
     {
         "id": 35,
-        "cname": "Sierra-Cedar"
+        "cname": "sierracedar"
     },
     {
         "id": 36,
-        "cname": "Wavestone"
+        "cname": "wavestone"
     },
     {
         "id": 37,
-        "cname": "Red Hat"
+        "cname": "redhat"
     },
     {
         "id": 38,
-        "cname": "KPMG"
+        "cname": "kpmg"
     },
     {
         "id": 39,
-        "cname": "Accenture Interactive"
+        "cname": "accentureinteractive"
     },
     {
         "id": 40,
-        "cname": "Syncron"
+        "cname": "syncron"
     },
     {
         "id": 41,
-        "cname": "Deloitte"
+        "cname": "deloitte"
     },
     {
         "id": 42,
-        "cname": "Capco"
+        "cname": "capco"
     },
     {
         "id": 43,
-        "cname": "Slalom Consulting"
+        "cname": "slalomconsulting"
     },
     {
         "id": 44,
-        "cname": "Epam Systems"
+        "cname": "epamsystems"
     },
     {
         "id": 45,
-        "cname": "Nagarro"
+        "cname": "nagarro"
     },
     {
         "id": 46,
-        "cname": "Hewlett Packard Enterprise"
+        "cname": "hewlettpackardenterprise"
     },
     {
         "id": 47,
-        "cname": "JDA Software"
+        "cname": "jdaSoftware"
     },
     {
         "id": 48,
-        "cname": "Shopify"
+        "cname": "shopify"
     },
     {
         "id": 49,
-        "cname": "Square"
+        "cname": "square"
+    },
+    {
+        "id": 50,
+        "cname": "linkedin"
     }
 ]
