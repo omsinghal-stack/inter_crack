@@ -9,11 +9,11 @@
     },
     {
         "id": 3,
-        "cname": "tataconsultancyservices"
+        "cname": "tcs"
     },
     {
         "id": 4,
-        "cname": "techmahindra"
+        "cname": "tech_mahindra"
     },
     {
         "id": 5,
@@ -29,7 +29,7 @@
     },
     {
         "id": 8,
-        "cname": "hcltechnologies"
+        "cname": "hclTechnologies"
     },
     {
         "id": 9,
@@ -45,7 +45,7 @@
     },
     {
         "id": 12,
-        "cname": "larsentoubroinfotech"
+        "cname": "larsenToubroInfotech"
     },
     {
         "id": 13,
@@ -53,11 +53,11 @@
     },
     {
         "id": 14,
-        "cname": "dxctechnology"
+        "cname": "dxcTechnology"
     },
     {
         "id": 15,
-        "cname": "persistentsystems"
+        "cname": "persistentSystems"
     },
     {
         "id": 16,
@@ -65,6 +65,6 @@
     },
     {
         "id": 17,
-        "cname": "zensartechnologies"
+        "cname": "zensarTechnologies"
     }
 ]
