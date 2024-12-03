@@ -20,6 +20,16 @@ app.get('/cname', (req, res) => {
     const cname = req.query.cname;
     const type = req.query.type;
     let ret_data = [];
+    if(cname.indexOf(cname)>-1){
+            ret_data = cm_name.filter((c)=>{
+                return c.cname === cname && c.type===type;
+            })
+    }
+    else{
+        ret_data = {
+            "message": 'Not found'
+        }
+    }
     switch (cname) {
         case 'accenture':
             if(type==='hr'){
@@ -57,7 +67,7 @@ app.get('/cname', (req, res) => {
                     return c.cname === 'infosys' && c.type==='hr';
                 })
             }
-            else if(type==='technical'){
+            else if(type==='Technical'){
                 ret_data = cm_name.filter((c) => {
                     return c.cname === 'infosys' && c.type==='technical';
                 })
