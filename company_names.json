@@ -1,70 +1,42 @@
 [
     {
         "id": 1,
-        "cname": "accenture"
+        "cname": "Tata Consultancy Services (TCS)"
     },
     {
         "id": 2,
-        "cname": "capgemini"
+        "cname": "Infosys"
     },
     {
         "id": 3,
-        "cname": "tcs"
+        "cname": "Wipro"
     },
     {
         "id": 4,
-        "cname": "tech_mahindra"
+        "cname": "HCL Technologies"
     },
     {
         "id": 5,
-        "cname": "infosys"
+        "cname": "Tech Mahindra"
     },
     {
         "id": 6,
-        "cname": "cognizant"
+        "cname": "Capgemini"
     },
     {
         "id": 7,
-        "cname": "wipro"
+        "cname": "Cognizant"
     },
     {
         "id": 8,
-        "cname": "hclTechnologies"
+        "cname": "Accenture"
     },
     {
         "id": 9,
-        "cname": "ibm"
+        "cname": "IBM"
     },
     {
         "id": 10,
-        "cname": "oracle"
-    },
-    {
-        "id": 11,
-        "cname": "sap"
-    },
-    {
-        "id": 12,
-        "cname": "larsenToubroInfotech"
-    },
-    {
-        "id": 13,
-        "cname": "mindtree"
-    },
-    {
-        "id": 14,
-        "cname": "dxcTechnology"
-    },
-    {
-        "id": 15,
-        "cname": "persistentSystems"
-    },
-    {
-        "id": 16,
-        "cname": "mphasis"
-    },
-    {
-        "id": 17,
-        "cname": "zensarTechnologies"
+        "cname": "Oracle"
     }
 ]
