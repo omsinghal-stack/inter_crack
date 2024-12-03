@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "cname": "Tata Consultancy Services (TCS)"
+        "cname": "tcs"
     },
     {
         "id": 2,
-        "cname": "Infosys"
+        "cname": "infosys"
     },
     {
         "id": 3,
-        "cname": "Wipro"
+        "cname": "wipro"
     },
     {
         "id": 4,
-        "cname": "HCL Technologies"
+        "cname": "hcl"
     },
     {
         "id": 5,
-        "cname": "Tech Mahindra"
+        "cname": "tech mahindra"
     },
     {
         "id": 6,
-        "cname": "Capgemini"
+        "cname": "capgemini"
     },
     {
         "id": 7,
-        "cname": "Cognizant"
+        "cname": "cognizant"
     },
     {
         "id": 8,
-        "cname": "Accenture"
+        "cname": "accenture"
     },
     {
         "id": 9,
-        "cname": "IBM"
+        "cname": "ibm"
     },
     {
         "id": 10,
-        "cname": "Oracle"
+        "cname": "oracle"
     }
 ]
