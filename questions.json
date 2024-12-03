@@ -1,1249 +1,1249 @@
 [
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "HR",
+        "type": "hr",
         "question": "Tell me about yourself.",
         "answer": "Provide a brief introduction about your background, education, and professional experience."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "HR",
+        "type": "hr",
         "question": "Why do you want to work at TCS?",
         "answer": "Explain your interest in the company's culture, projects, and opportunities for growth."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your strengths and weaknesses?",
         "answer": "Highlight key strengths relevant to the job and acknowledge a minor weakness along with steps to improve it."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "HR",
+        "type": "hr",
         "question": "Where do you see yourself in five years?",
         "answer": "Discuss your career goals and how the company aligns with your aspirations."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you handle stress and pressure?",
         "answer": "Describe techniques such as prioritization, time management, and maintaining a positive attitude."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "HR",
+        "type": "hr",
         "question": "Why should we hire you?",
         "answer": "Discuss your skills, experience, and enthusiasm for contributing to the company's success."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "HR",
+        "type": "hr",
         "question": "Tell me about a challenging situation you faced and how you resolved it.",
         "answer": "Provide a specific example using the STAR (Situation, Task, Action, Result) method."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "HR",
+        "type": "hr",
         "question": "Are you willing to relocate or travel for work?",
         "answer": "Express your openness to relocation or travel, if applicable."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "HR",
+        "type": "hr",
         "question": "What do you know about TCS and its culture?",
         "answer": "Demonstrate knowledge about TCS's values, projects, and work environment."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your expectations from this job?",
         "answer": "Outline your expectations in terms of role, learning opportunities, and career growth."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the difference between an abstract class and an interface in Java.",
         "answer": "An abstract class can have both implemented and unimplemented methods, whereas an interface only contains abstract methods (until Java 8)."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is normalization in database design?",
         "answer": "Normalization is the process of organizing data to reduce redundancy and improve data integrity."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "Technical",
+        "type": "technical",
         "question": "Describe the software development life cycle (SDLC).",
         "answer": "SDLC is a framework defining tasks performed during each phase of the software development process."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are the OOP principles, and how do they work?",
         "answer": "The principles are encapsulation, inheritance, polymorphism, and abstraction, which facilitate modular and reusable code."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "Technical",
+        "type": "technical",
         "question": "How would you optimize a SQL query?",
         "answer": "Optimization techniques include using indexes, avoiding SELECT *, and analyzing query execution plans."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is polymorphism in object-oriented programming?",
         "answer": "Polymorphism allows a single interface to be used for different underlying data types."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the difference between a primary key and a foreign key.",
         "answer": "A primary key uniquely identifies a record, whereas a foreign key establishes relationships between tables."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are the various types of joins in SQL?",
         "answer": "Common joins are INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN, used to combine data from multiple tables."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "Technical",
+        "type": "technical",
         "question": "Can you explain recursion with an example?",
         "answer": "Recursion is a function calling itself. For example, calculating factorials using a recursive function."
     },
     {
         "cname": "Tata Consultancy Services (TCS)",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between a stack and a queue?",
         "answer": "A stack follows LIFO (Last In First Out), while a queue follows FIFO (First In First Out)."
     },
     {
         "cname": "Infosys",
-        "type": "HR",
+        "type": "hr",
         "question": "Tell me about yourself.",
         "answer": "Provide a concise introduction about your background, skills, and career aspirations."
     },
     {
         "cname": "Infosys",
-        "type": "HR",
+        "type": "hr",
         "question": "Why do you want to join Infosys?",
         "answer": "Explain your interest in Infosys's innovation, global presence, and career development opportunities."
     },
     {
         "cname": "Infosys",
-        "type": "HR",
+        "type": "hr",
         "question": "What motivates you at work?",
         "answer": "Mention factors like learning, challenges, teamwork, and achieving results."
     },
     {
         "cname": "Infosys",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you manage deadlines?",
         "answer": "Explain how you prioritize tasks, plan ahead, and communicate effectively to meet deadlines."
     },
     {
         "cname": "Infosys",
-        "type": "HR",
+        "type": "hr",
         "question": "Have you ever worked in a team? What was your role?",
         "answer": "Share an example of a team project, your contributions, and how you collaborated with others."
     },
     {
         "cname": "Infosys",
-        "type": "HR",
+        "type": "hr",
         "question": "What is your biggest professional achievement?",
         "answer": "Describe a significant achievement, focusing on the impact and how you accomplished it."
     },
     {
         "cname": "Infosys",
-        "type": "HR",
+        "type": "hr",
         "question": "What do you know about Infosys?",
         "answer": "Demonstrate knowledge about Infosys's services, values, and commitment to digital transformation."
     },
     {
         "cname": "Infosys",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you handle failure?",
         "answer": "Explain how you analyze failures, learn from them, and take corrective actions."
     },
     {
         "cname": "Infosys",
-        "type": "HR",
+        "type": "hr",
         "question": "Are you comfortable working in shifts?",
         "answer": "Mention your flexibility and willingness to adapt to different working hours."
     },
     {
         "cname": "Infosys",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your career goals?",
         "answer": "Discuss your long-term professional aspirations and how Infosys can help you achieve them."
     },
     {
         "cname": "Infosys",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between a process and a thread?",
         "answer": "A process is an independent execution unit, while a thread is a lightweight subunit within a process."
     },
     {
         "cname": "Infosys",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the significance of Big O notation in algorithms?",
         "answer": "Big O notation describes the time and space complexity of an algorithm, representing its efficiency."
     },
     {
         "cname": "Infosys",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the concept of inheritance in object-oriented programming.",
         "answer": "Inheritance allows a class to acquire properties and methods from another class, promoting code reuse."
     },
     {
         "cname": "Infosys",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a deadlock in operating systems?",
         "answer": "A deadlock occurs when processes are stuck waiting for resources held by each other, causing a halt."
     },
     {
         "cname": "Infosys",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between TCP and UDP?",
         "answer": "TCP is connection-oriented and reliable, while UDP is connectionless and faster with no reliability guarantee."
     },
     {
         "cname": "Infosys",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are foreign keys in databases?",
         "answer": "Foreign keys are used to establish a link between data in two tables, enforcing referential integrity."
     },
     {
         "cname": "Infosys",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the MVC architecture.",
         "answer": "MVC stands for Model-View-Controller, a design pattern that separates application logic, user interface, and control flow."
     },
     {
         "cname": "Infosys",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are the key differences between Java and Python?",
         "answer": "Java is statically typed and faster, while Python is dynamically typed and easier to write and debug."
     },
     {
         "cname": "Infosys",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the purpose of exception handling?",
         "answer": "Exception handling manages runtime errors, ensuring the program continues to operate or gracefully terminates."
     },
     {
         "cname": "Infosys",
-        "type": "Technical",
+        "type": "technical",
         "question": "How do you implement a binary search algorithm?",
         "answer": "Binary search divides a sorted array into halves, repeatedly checking the middle value to locate the target."
     },
     {
         "cname": "Wipro",
-        "type": "HR",
+        "type": "hr",
         "question": "Introduce yourself.",
         "answer": "Share a summary of your educational background, work experience, and key skills."
     },
     {
         "cname": "Wipro",
-        "type": "HR",
+        "type": "hr",
         "question": "Why do you want to work at Wipro?",
         "answer": "Discuss your interest in Wipro's technology leadership, global presence, and growth opportunities."
     },
     {
         "cname": "Wipro",
-        "type": "HR",
+        "type": "hr",
         "question": "Can you describe a situation where you showed leadership?",
         "answer": "Provide an example of how you successfully guided a team or project."
     },
     {
         "cname": "Wipro",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you handle constructive criticism?",
         "answer": "Explain your approach to using feedback to improve your performance."
     },
     {
         "cname": "Wipro",
-        "type": "HR",
+        "type": "hr",
         "question": "What do you know about Wipro's services and operations?",
         "answer": "Showcase your knowledge of Wipro's IT consulting, cloud services, and digital transformation projects."
     },
     {
         "cname": "Wipro",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you prioritize your work during tight deadlines?",
         "answer": "Discuss how you organize tasks based on urgency and importance to meet deadlines."
     },
     {
         "cname": "Wipro",
-        "type": "HR",
+        "type": "hr",
         "question": "What is your approach to teamwork?",
         "answer": "Highlight your ability to collaborate, communicate, and contribute effectively in a team."
     },
     {
         "cname": "Wipro",
-        "type": "HR",
+        "type": "hr",
         "question": "Are you open to working on different technologies or domains?",
         "answer": "Express your willingness to adapt and learn new technologies or domains as needed."
     },
     {
         "cname": "Wipro",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your long-term career aspirations?",
         "answer": "Discuss your goals and how they align with opportunities at Wipro."
     },
     {
         "cname": "Wipro",
-        "type": "HR",
+        "type": "hr",
         "question": "How would you contribute to Wipro's success?",
         "answer": "Mention your skills, innovative mindset, and enthusiasm to solve problems that add value to the company."
     },
     {
         "cname": "Wipro",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between overloading and overriding in Java?",
         "answer": "Overloading occurs within the same class with different parameter sets, while overriding involves a subclass redefining a parent class's method."
     },
     {
         "cname": "Wipro",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the difference between relational and non-relational databases.",
         "answer": "Relational databases use structured schemas and tables, while non-relational databases store unstructured or semi-structured data."
     },
     {
         "cname": "Wipro",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the purpose of the OSI model?",
         "answer": "The OSI model standardizes networking functions into seven layers, ensuring interoperability among systems."
     },
     {
         "cname": "Wipro",
-        "type": "Technical",
+        "type": "technical",
         "question": "Can you explain the Agile development methodology?",
         "answer": "Agile promotes iterative development, collaboration, and flexibility to accommodate changing requirements."
     },
     {
         "cname": "Wipro",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are pointers in C, and why are they used?",
         "answer": "Pointers are variables that store memory addresses, used for dynamic memory allocation and efficient data access."
     },
     {
         "cname": "Wipro",
-        "type": "Technical",
+        "type": "technical",
         "question": "How would you reverse a linked list?",
         "answer": "Traverse the list while modifying pointers to reverse the direction of the links."
     },
     {
         "cname": "Wipro",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between a compiler and an interpreter?",
         "answer": "A compiler translates the entire code into machine language at once, while an interpreter processes code line by line."
     },
     {
         "cname": "Wipro",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are RESTful APIs?",
         "answer": "RESTful APIs adhere to REST principles, using HTTP methods for communication and enabling stateless interactions."
     },
     {
         "cname": "Wipro",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the use of JOIN in SQL.",
         "answer": "JOIN combines data from multiple tables based on a related column."
     },
     {
         "cname": "Wipro",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between an array and a linked list?",
         "answer": "An array has fixed-size contiguous memory, while a linked list uses dynamic memory with nodes connected by pointers."
     },
     {
         "cname": "HCL Technologies",
-        "type": "HR",
+        "type": "hr",
         "question": "Can you introduce yourself?",
         "answer": "Provide an overview of your academic background, skills, and career highlights."
     },
     {
         "cname": "HCL Technologies",
-        "type": "HR",
+        "type": "hr",
         "question": "Why do you want to work at HCL Technologies?",
         "answer": "Discuss your admiration for HCL's innovation, client-centric approach, and opportunities for growth."
     },
     {
         "cname": "HCL Technologies",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your greatest strengths?",
         "answer": "Highlight your key strengths relevant to the job role, such as problem-solving, communication, or technical expertise."
     },
     {
         "cname": "HCL Technologies",
-        "type": "HR",
+        "type": "hr",
         "question": "Can you discuss a challenge you faced and how you resolved it?",
         "answer": "Share a specific example using the STAR method, focusing on your actions and results."
     },
     {
         "cname": "HCL Technologies",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you manage multiple priorities?",
         "answer": "Explain your approach to task prioritization, planning, and time management."
     },
     {
         "cname": "HCL Technologies",
-        "type": "HR",
+        "type": "hr",
         "question": "What do you know about HCL Technologies?",
         "answer": "Mention HCL's focus on technology solutions, IT services, and its global impact."
     },
     {
         "cname": "HCL Technologies",
-        "type": "HR",
+        "type": "hr",
         "question": "Where do you see yourself in five years?",
         "answer": "Discuss your career aspirations and how HCL aligns with your goals."
     },
     {
         "cname": "HCL Technologies",
-        "type": "HR",
+        "type": "hr",
         "question": "What motivates you to perform well?",
         "answer": "Talk about your drive to learn, contribute, and achieve results in a collaborative environment."
     },
     {
         "cname": "HCL Technologies",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you handle feedback and criticism?",
         "answer": "Describe how you use feedback as an opportunity to grow and improve."
     },
     {
         "cname": "HCL Technologies",
-        "type": "HR",
+        "type": "hr",
         "question": "Are you open to working in different locations or shifts?",
         "answer": "Express your flexibility and willingness to adapt as per the company's requirements."
     },
     {
         "cname": "HCL Technologies",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between GET and POST methods in HTTP?",
         "answer": "GET is used to retrieve data, and parameters are visible in the URL, while POST is used to send data, and parameters are included in the request body."
     },
     {
         "cname": "HCL Technologies",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the concept of multithreading.",
         "answer": "Multithreading allows multiple threads to run concurrently within a single process, improving efficiency."
     },
     {
         "cname": "HCL Technologies",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between primary key and unique key?",
         "answer": "A primary key uniquely identifies a record and does not allow NULL values, whereas a unique key also ensures uniqueness but allows one NULL value."
     },
     {
         "cname": "HCL Technologies",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are the different types of inheritance in OOP?",
         "answer": "The types are single inheritance, multiple inheritance, multilevel inheritance, hierarchical inheritance, and hybrid inheritance."
     },
     {
         "cname": "HCL Technologies",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a foreign key in a database?",
         "answer": "A foreign key establishes a relationship between two tables by referencing the primary key of another table."
     },
     {
         "cname": "HCL Technologies",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the purpose of garbage collection in Java?",
         "answer": "Garbage collection automatically removes unused objects to free memory and improve efficiency."
     },
     {
         "cname": "HCL Technologies",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are the differences between TCP and IP?",
         "answer": "TCP ensures reliable data delivery, while IP handles addressing and routing packets between devices."
     },
     {
         "cname": "HCL Technologies",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the difference between stack and heap memory.",
         "answer": "Stack memory is used for static memory allocation, while heap memory is used for dynamic memory allocation."
     },
     {
         "cname": "HCL Technologies",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is polymorphism in OOP?",
         "answer": "Polymorphism allows objects to take on multiple forms, typically implemented via method overloading and overriding."
     },
     {
         "cname": "HCL Technologies",
-        "type": "Technical",
+        "type": "technical",
         "question": "How does bubble sort work?",
         "answer": "Bubble sort repeatedly swaps adjacent elements if they are in the wrong order, continuing until the list is sorted."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "HR",
+        "type": "hr",
         "question": "Can you introduce yourself?",
         "answer": "Provide a brief summary of your education, skills, and professional experience."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "HR",
+        "type": "hr",
         "question": "Why do you want to work at Tech Mahindra?",
         "answer": "Discuss your interest in Tech Mahindra's innovative projects and its role in the IT industry."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your key strengths?",
         "answer": "Highlight skills such as adaptability, teamwork, and problem-solving relevant to the role."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you handle work pressure?",
         "answer": "Explain your strategies for staying organized and calm under pressure, such as prioritization and time management."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "HR",
+        "type": "hr",
         "question": "What do you know about Tech Mahindra?",
         "answer": "Mention its IT services, telecom solutions, and global operations in various industries."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "HR",
+        "type": "hr",
         "question": "Can you discuss a situation where you resolved a conflict in a team?",
         "answer": "Share an example where you mediated differences and ensured team collaboration."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "HR",
+        "type": "hr",
         "question": "Where do you see yourself in five years?",
         "answer": "Explain your career goals and how Tech Mahindra can help you achieve them."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "HR",
+        "type": "hr",
         "question": "What motivates you to excel at work?",
         "answer": "Discuss your passion for learning, achieving results, and contributing to impactful projects."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you adapt to new technologies?",
         "answer": "Describe your proactive approach to learning and staying updated with industry trends."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "HR",
+        "type": "hr",
         "question": "Are you comfortable relocating or working in shifts?",
         "answer": "Express your flexibility to accommodate company requirements."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between a class and an object in OOP?",
         "answer": "A class is a blueprint for objects, while an object is an instance of a class with specific values."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the concept of normalization in databases.",
         "answer": "Normalization organizes data to reduce redundancy and improve data integrity by dividing it into related tables."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are the key differences between Java and Python?",
         "answer": "Java is statically typed and compiled, while Python is dynamically typed and interpreted."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between an abstract class and an interface?",
         "answer": "An abstract class can have both implemented and unimplemented methods, while an interface only declares methods."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the significance of SDLC (Software Development Life Cycle)?",
         "answer": "SDLC outlines the process of developing software in phases, ensuring high-quality outcomes."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "Technical",
+        "type": "technical",
         "question": "How do you handle exceptions in Java?",
         "answer": "Exceptions in Java are handled using try-catch blocks, with optional use of finally for cleanup."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is polymorphism in OOP?",
         "answer": "Polymorphism allows objects to perform the same action differently, typically through method overriding or overloading."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are the types of joins in SQL?",
         "answer": "The types are INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, and CROSS JOIN."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a linked list, and how does it differ from an array?",
         "answer": "A linked list is a linear data structure where elements are stored as nodes with pointers, while an array uses contiguous memory."
     },
     {
         "cname": "Tech Mahindra",
-        "type": "Technical",
+        "type": "technical",
         "question": "How would you implement a binary search algorithm?",
         "answer": "Divide a sorted array in half and compare the middle element with the target, repeating the process in the relevant half."
     },
     {
         "cname": "Cognizant",
-        "type": "HR",
+        "type": "hr",
         "question": "Can you tell me about yourself?",
         "answer": "Give a brief overview of your academic background, professional experience, and skills relevant to the position."
     },
     {
         "cname": "Cognizant",
-        "type": "HR",
+        "type": "hr",
         "question": "Why do you want to work at Cognizant?",
         "answer": "Discuss your interest in Cognizant’s global reach, innovative projects, and its commitment to employee development."
     },
     {
         "cname": "Cognizant",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your strengths and weaknesses?",
         "answer": "Discuss your strengths, such as problem-solving, and acknowledge a weakness that you are working to improve."
     },
     {
         "cname": "Cognizant",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you handle stress and pressure?",
         "answer": "Explain your methods of staying organized, prioritizing tasks, and maintaining focus under pressure."
     },
     {
         "cname": "Cognizant",
-        "type": "HR",
+        "type": "hr",
         "question": "What do you know about Cognizant’s services?",
         "answer": "Mention Cognizant’s expertise in IT services, consulting, digital solutions, and its presence across various industries."
     },
     {
         "cname": "Cognizant",
-        "type": "HR",
+        "type": "hr",
         "question": "Can you describe a time when you worked in a team?",
         "answer": "Provide an example of successful collaboration, explaining your role in achieving team objectives."
     },
     {
         "cname": "Cognizant",
-        "type": "HR",
+        "type": "hr",
         "question": "Where do you see yourself in five years?",
         "answer": "Explain your long-term career goals and how they align with opportunities for growth at Cognizant."
     },
     {
         "cname": "Cognizant",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you prioritize your work when handling multiple tasks?",
         "answer": "Discuss your approach to managing tasks by their importance and deadlines, ensuring quality and efficiency."
     },
     {
         "cname": "Cognizant",
-        "type": "HR",
+        "type": "hr",
         "question": "What motivates you to perform well in your job?",
         "answer": "Explain how challenges, learning opportunities, and making an impact motivate you to achieve results."
     },
     {
         "cname": "Cognizant",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you deal with difficult situations or conflicts at work?",
         "answer": "Share an example where you resolved a conflict using communication, empathy, and problem-solving skills."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between an interface and an abstract class in Java?",
         "answer": "An interface is a contract that classes can implement, while an abstract class can provide partial implementations and cannot be instantiated."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a SQL join?",
         "answer": "A SQL join combines rows from two or more tables based on a related column, such as an inner join or left join."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the concept of inheritance in object-oriented programming.",
         "answer": "Inheritance allows a class to inherit properties and methods from another class, promoting code reuse and creating a hierarchy."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a deadlock in multi-threading, and how do you resolve it?",
         "answer": "A deadlock occurs when two or more threads are blocked forever, waiting for each other. It can be resolved by using proper synchronization techniques."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between stack and heap memory?",
         "answer": "Stack memory is used for method calls and local variables, while heap memory is used for dynamic memory allocation."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is polymorphism in OOP?",
         "answer": "Polymorphism allows objects of different classes to be treated as objects of a common superclass, enabling method overriding and overloading."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between REST and SOAP web services?",
         "answer": "REST is lightweight and uses HTTP for communication, while SOAP is more rigid and uses XML for communication."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the purpose of the final keyword in Java?",
         "answer": "The final keyword in Java is used to declare constants, prevent method overriding, and prevent inheritance of classes."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "How does the hash map work in Java?",
         "answer": "A hash map stores key-value pairs, and it uses a hash function to compute the index where the value is stored."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a constructor in Java?",
         "answer": "A constructor is a special method used to initialize objects in Java, with the same name as the class."
     },
     {
         "cname": "Cognizant",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the purpose of exception handling in Java?",
         "answer": "Exception handling allows a program to handle runtime errors using try-catch blocks, ensuring smooth execution."
     },
     {
         "cname": "Accenture",
-        "type": "HR",
+        "type": "hr",
         "question": "Tell me about yourself.",
         "answer": "Provide a brief introduction about your academic background, professional experience, and what motivates you."
     },
     {
         "cname": "Accenture",
-        "type": "HR",
+        "type": "hr",
         "question": "Why do you want to work at Accenture?",
         "answer": "Discuss your interest in Accenture’s global presence, innovative approach, and opportunities for career growth."
     },
     {
         "cname": "Accenture",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your strengths and weaknesses?",
         "answer": "Highlight your key strengths, such as adaptability, and mention a weakness you are working to improve."
     },
     {
         "cname": "Accenture",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you handle pressure and tight deadlines?",
         "answer": "Explain how you stay organized, prioritize tasks, and manage stress effectively under pressure."
     },
     {
         "cname": "Accenture",
-        "type": "HR",
+        "type": "hr",
         "question": "What do you know about Accenture?",
         "answer": "Mention Accenture’s leadership in consulting, technology services, and digital transformation across industries."
     },
     {
         "cname": "Accenture",
-        "type": "HR",
+        "type": "hr",
         "question": "Can you describe a time when you worked in a team?",
         "answer": "Provide an example of collaboration where you contributed towards achieving team objectives."
     },
     {
         "cname": "Accenture",
-        "type": "HR",
+        "type": "hr",
         "question": "Where do you see yourself in five years?",
         "answer": "Discuss your long-term career goals and how Accenture offers the environment and opportunities to help you achieve them."
     },
     {
         "cname": "Accenture",
-        "type": "HR",
+        "type": "hr",
         "question": "What motivates you?",
         "answer": "Explain your passion for innovation, problem-solving, and the opportunity to make a positive impact in the industry."
     },
     {
         "cname": "Accenture",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you approach learning new technologies?",
         "answer": "Describe how you stay updated with industry trends and how you approach learning and implementing new technologies."
     },
     {
         "cname": "Accenture",
-        "type": "HR",
+        "type": "hr",
         "question": "Are you open to relocating or working in different time zones?",
         "answer": "Express your willingness to adapt and work in a flexible environment to meet the company’s needs."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between a primary key and a foreign key in a database?",
         "answer": "A primary key uniquely identifies a record in a table, while a foreign key establishes a relationship between two tables."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a RESTful API?",
         "answer": "A RESTful API is a web service that follows the principles of Representational State Transfer, using HTTP methods like GET, POST, PUT, DELETE."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between overloading and overriding in Java?",
         "answer": "Overloading is defining multiple methods with the same name but different parameters, while overriding is redefining a method in a subclass."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the concept of polymorphism in OOP?",
         "answer": "Polymorphism allows objects to take on different forms, either through method overriding or method overloading."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the difference between a stack and a queue.",
         "answer": "A stack follows LIFO (Last In, First Out) order, while a queue follows FIFO (First In, First Out) order."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is SQL injection, and how do you prevent it?",
         "answer": "SQL injection is a security vulnerability that allows an attacker to interfere with SQL queries. It can be prevented by using parameterized queries or prepared statements."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the purpose of garbage collection in Java?",
         "answer": "Garbage collection automatically frees up memory by removing objects that are no longer in use."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are the differences between a linked list and an array?",
         "answer": "An array has a fixed size and uses contiguous memory, while a linked list has dynamic size and uses nodes with pointers."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a hash table?",
         "answer": "A hash table is a data structure that stores key-value pairs and uses a hash function to map keys to specific locations in the table."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the concept of microservices.",
         "answer": "Microservices architecture breaks down applications into smaller, independent services that can be deployed and scaled individually."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is an index in SQL?",
         "answer": "An index is a database object that improves the speed of data retrieval operations on a table at the cost of additional space and slower write operations."
     },
     {
         "cname": "Accenture",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the purpose of the 'final' keyword in Java?",
         "answer": "The 'final' keyword in Java is used to declare constants, prevent method overriding, and prevent inheritance of a class."
     },
     {
         "cname": "Capgemini",
-        "type": "HR",
+        "type": "hr",
         "question": "Tell me about yourself.",
         "answer": "Give a brief introduction about your academic background, professional experiences, and skills that make you suitable for the role."
     },
     {
         "cname": "Capgemini",
-        "type": "HR",
+        "type": "hr",
         "question": "Why do you want to work at Capgemini?",
         "answer": "Mention Capgemini’s innovative approach, its global presence, and the growth opportunities that align with your career goals."
     },
     {
         "cname": "Capgemini",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your strengths and weaknesses?",
         "answer": "Talk about a key strength, such as problem-solving, and a weakness you are working to improve, such as time management."
     },
     {
         "cname": "Capgemini",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you handle challenges at work?",
         "answer": "Explain your approach to tackling problems by breaking them down, collaborating with team members, and finding solutions effectively."
     },
     {
         "cname": "Capgemini",
-        "type": "HR",
+        "type": "hr",
         "question": "What do you know about Capgemini?",
         "answer": "Capgemini is a global leader in consulting, technology services, and digital transformation, providing innovative solutions to clients across industries."
     },
     {
         "cname": "Capgemini",
-        "type": "HR",
+        "type": "hr",
         "question": "Describe a situation where you worked in a team.",
         "answer": "Provide an example of a successful collaboration where you contributed to achieving team objectives."
     },
     {
         "cname": "Capgemini",
-        "type": "HR",
+        "type": "hr",
         "question": "Where do you see yourself in five years?",
         "answer": "Discuss your long-term career aspirations and how you see yourself growing at Capgemini in terms of skills and responsibilities."
     },
     {
         "cname": "Capgemini",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you prioritize your tasks?",
         "answer": "Explain how you organize tasks based on urgency, importance, and deadlines to ensure timely completion."
     },
     {
         "cname": "Capgemini",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you deal with criticism?",
         "answer": "Explain how you accept constructive feedback, learn from it, and implement changes to improve your work performance."
     },
     {
         "cname": "Capgemini",
-        "type": "HR",
+        "type": "hr",
         "question": "What motivates you?",
         "answer": "Discuss your passion for technology, problem-solving, and making a meaningful impact in your work."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between an abstract class and an interface in Java?",
         "answer": "An abstract class can have both abstract and concrete methods, while an interface only contains abstract methods (prior to Java 8)."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the use of the ‘this’ keyword in Java?",
         "answer": "The ‘this’ keyword refers to the current instance of a class, allowing access to instance variables and methods."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a lambda expression in Java?",
         "answer": "A lambda expression is a short block of code that takes in parameters and returns a value. It is used to implement functional interfaces."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the concept of encapsulation in object-oriented programming.",
         "answer": "Encapsulation involves hiding the internal state of an object and providing public methods to access or modify that state."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a SQL join?",
         "answer": "A SQL join combines rows from two or more tables based on a related column, such as an inner join, left join, right join, or full join."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between synchronous and asynchronous programming?",
         "answer": "Synchronous programming executes tasks sequentially, while asynchronous programming allows tasks to be executed concurrently, without blocking."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "Explain the concept of multithreading in Java.",
         "answer": "Multithreading in Java allows multiple threads to run concurrently, enabling better CPU utilization and faster execution of tasks."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a hash map?",
         "answer": "A hash map is a data structure that stores key-value pairs and uses a hash function to map keys to specific locations in the table."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between a linked list and an array?",
         "answer": "An array has a fixed size and uses contiguous memory, while a linked list uses nodes and allows dynamic memory allocation."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is an exception in Java, and how is it handled?",
         "answer": "An exception is an error that occurs during program execution. It can be handled using try-catch blocks to prevent program crashes."
     },
     {
         "cname": "Capgemini",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a REST API?",
         "answer": "A REST API is an application programming interface that adheres to the principles of Representational State Transfer, allowing communication between systems using HTTP methods."
     },
     {
         "cname": "IBM",
-        "type": "HR",
+        "type": "hr",
         "question": "Tell me about yourself.",
         "answer": "Introduce your background, academic achievements, and work experiences, highlighting how they align with the role you're applying for at IBM."
     },
     {
         "cname": "IBM",
-        "type": "HR",
+        "type": "hr",
         "question": "Why do you want to work at IBM?",
         "answer": "IBM's reputation for innovation, its leadership in AI and cloud computing, and its commitment to diversity and inclusion are key factors that excite me about working here."
     },
     {
         "cname": "IBM",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your strengths and weaknesses?",
         "answer": "I’m good at problem-solving and critical thinking, but sometimes I tend to focus too much on details. I’m working on improving my time management to balance this."
     },
     {
         "cname": "IBM",
-        "type": "HR",
+        "type": "hr",
         "question": "What motivates you?",
         "answer": "I’m motivated by challenging projects that push me to learn new skills, solve complex problems, and contribute to impactful solutions."
     },
     {
         "cname": "IBM",
-        "type": "HR",
+        "type": "hr",
         "question": "What do you know about IBM?",
         "answer": "IBM is a global technology company known for its innovations in cloud computing, AI, and quantum computing. It has a strong focus on research and development and serves clients across multiple industries."
     },
     {
         "cname": "IBM",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you handle conflict in the workplace?",
         "answer": "I handle conflicts by staying calm, listening to all sides, and working with the team to find a constructive solution that benefits everyone."
     },
     {
         "cname": "IBM",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you prioritize your tasks?",
         "answer": "I prioritize tasks based on urgency and importance, using tools like task lists and project management software to stay organized and meet deadlines."
     },
     {
         "cname": "IBM",
-        "type": "HR",
+        "type": "hr",
         "question": "Where do you see yourself in five years?",
         "answer": "In five years, I aim to have developed expertise in my field, contributing to IBM's projects, and taking on more leadership responsibilities."
     },
     {
         "cname": "IBM",
-        "type": "HR",
+        "type": "hr",
         "question": "Tell us about a time when you faced a challenge and how you overcame it.",
         "answer": "I faced a challenge when I had to meet a tight project deadline. I overcame it by breaking the task into smaller steps, managing my time effectively, and collaborating with my team."
     },
     {
         "cname": "IBM",
-        "type": "HR",
+        "type": "hr",
         "question": "What is your approach to teamwork?",
         "answer": "I believe in open communication, sharing ideas, and collaborating effectively with team members. I always strive to contribute positively and support my colleagues."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between procedural and object-oriented programming?",
         "answer": "Procedural programming focuses on a sequence of actions (functions or procedures), while object-oriented programming organizes code around objects and classes to model real-world entities."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a RESTful API?",
         "answer": "A RESTful API is an interface that follows the principles of REST (Representational State Transfer), using HTTP methods (GET, POST, PUT, DELETE) to interact with resources represented by URLs."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is cloud computing?",
         "answer": "Cloud computing is the delivery of computing services (like storage, processing, and networking) over the internet, allowing users to access and manage data without owning physical infrastructure."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between an abstract class and an interface in Java?",
         "answer": "An abstract class can have both abstract and concrete methods, whereas an interface only contains abstract methods (until Java 8, which introduced default methods)."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is polymorphism in object-oriented programming?",
         "answer": "Polymorphism allows objects to take on many forms, such as method overloading (compile-time polymorphism) and method overriding (runtime polymorphism)."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between a Stack and a Queue?",
         "answer": "A Stack is a LIFO (Last In, First Out) data structure, while a Queue is FIFO (First In, First Out). Stacks are used for operations like undo, while Queues are used for scheduling tasks."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a thread in Java?",
         "answer": "A thread in Java is a lightweight process that allows multiple tasks to run concurrently, enabling efficient use of resources and improved performance."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is Hadoop?",
         "answer": "Hadoop is an open-source framework for storing and processing large datasets in a distributed computing environment, using components like HDFS (Hadoop Distributed File System) and MapReduce."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the purpose of a HashMap in Java?",
         "answer": "A HashMap is a data structure that stores key-value pairs, where each key is unique, and it allows fast retrieval of values using the keys."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is Docker and how is it used?",
         "answer": "Docker is a platform that enables developers to package applications and their dependencies into containers, ensuring consistency across environments and making deployment easier."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is machine learning?",
         "answer": "Machine learning is a subset of AI where algorithms improve their performance over time by learning from data, identifying patterns, and making predictions or decisions."
     },
     {
         "cname": "IBM",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the role of an index in a database?",
         "answer": "An index is a data structure that improves the speed of data retrieval operations in a database, allowing quicker search, update, and delete operations."
     },
     {
         "cname": "Oracle",
-        "type": "HR",
+        "type": "hr",
         "question": "Tell me about yourself.",
         "answer": "Provide an overview of your background, education, work experience, and why you're interested in joining Oracle."
     },
     {
         "cname": "Oracle",
-        "type": "HR",
+        "type": "hr",
         "question": "Why do you want to work at Oracle?",
         "answer": "Oracle is a leader in cloud technology, database management, and enterprise software. I’m excited to work in an innovative environment where I can contribute to cutting-edge solutions."
     },
     {
         "cname": "Oracle",
-        "type": "HR",
+        "type": "hr",
         "question": "What are your strengths and weaknesses?",
         "answer": "My strengths include strong analytical skills and problem-solving abilities. My weakness is sometimes being too detail-oriented, but I’m working on improving my efficiency."
     },
     {
         "cname": "Oracle",
-        "type": "HR",
+        "type": "hr",
         "question": "Where do you see yourself in five years?",
         "answer": "In five years, I see myself taking on more responsibility in a leadership role, driving impactful projects, and contributing to Oracle’s success."
     },
     {
         "cname": "Oracle",
-        "type": "HR",
+        "type": "hr",
         "question": "What motivates you?",
         "answer": "I’m motivated by opportunities to work on challenging problems, grow professionally, and contribute to meaningful projects that have a positive impact."
     },
     {
         "cname": "Oracle",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you handle stress?",
         "answer": "I manage stress by staying organized, prioritizing tasks, and breaking them into smaller, manageable steps. I also take breaks when needed to stay focused."
     },
     {
         "cname": "Oracle",
-        "type": "HR",
+        "type": "hr",
         "question": "How do you prioritize your tasks?",
         "answer": "I prioritize tasks based on deadlines and importance, using tools like to-do lists and project management software to stay on track."
     },
     {
         "cname": "Oracle",
-        "type": "HR",
+        "type": "hr",
         "question": "Tell me about a time when you worked in a team to achieve a goal.",
         "answer": "I worked on a project where our team had to meet tight deadlines. By collaborating effectively, dividing tasks based on strengths, and communicating openly, we successfully completed the project on time."
     },
     {
         "cname": "Oracle",
-        "type": "HR",
+        "type": "hr",
         "question": "What do you know about Oracle?",
         "answer": "Oracle is a multinational technology corporation specializing in database software, cloud computing, and enterprise software. It’s known for its powerful databases and innovative solutions."
     },
     {
         "cname": "Oracle",
-        "type": "HR",
+        "type": "hr",
         "question": "What is your approach to problem-solving?",
         "answer": "I approach problem-solving by first understanding the issue, breaking it down into smaller components, researching possible solutions, and then selecting and implementing the best approach."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a database trigger in Oracle?",
         "answer": "A database trigger is a stored procedure that automatically executes when a specified event occurs in the database, such as an insert, update, or delete operation."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a foreign key in Oracle?",
         "answer": "A foreign key is a column or a set of columns in a table that establishes a link between the data in two tables, ensuring referential integrity."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between UNION and UNION ALL?",
         "answer": "UNION combines the result sets of two queries, removing duplicates, while UNION ALL combines the result sets without removing duplicates."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a stored procedure in Oracle?",
         "answer": "A stored procedure is a precompiled collection of one or more SQL statements that can be executed repeatedly and is stored in the database."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is normalization in database design?",
         "answer": "Normalization is the process of organizing the attributes and tables of a relational database to minimize redundancy and dependency, ensuring data integrity."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What are indexes in Oracle?",
         "answer": "Indexes are database objects that speed up the retrieval of rows from a table by providing quick access to data based on column values."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between DELETE and TRUNCATE in SQL?",
         "answer": "DELETE removes rows from a table based on a condition and logs each row deletion, whereas TRUNCATE removes all rows from a table and does not log individual row deletions."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is an outer join in SQL?",
         "answer": "An outer join returns all records from one table and the matching records from the other table, or NULL if there is no match."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the purpose of the ROLLBACK command in Oracle?",
         "answer": "The ROLLBACK command is used to undo changes made in the current transaction, restoring the database to its state before the transaction began."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a sequence in Oracle?",
         "answer": "A sequence in Oracle is a database object used to generate unique numbers, often used for creating primary key values."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is the difference between CHAR and VARCHAR in Oracle?",
         "answer": "CHAR is a fixed-length string data type, while VARCHAR is a variable-length string data type, used for storing data that varies in size."
     },
     {
         "cname": "Oracle",
-        "type": "Technical",
+        "type": "technical",
         "question": "What is a data dictionary in Oracle?",
         "answer": "A data dictionary is a set of read-only tables and views that provide metadata about the database, including information on tables, columns, and privileges."
     }
