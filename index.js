@@ -24,6 +24,11 @@ app.get('/cname', (req, res) => {
             ret_data = cm_name.filter((c)=>{
                 return c.cname === cname && c.type===type;
             })
+            if(ret_data.length===0){
+                ret_data =  {
+                    "message": 'Not found'
+                }
+            }
     }
     else{
         ret_data = {
