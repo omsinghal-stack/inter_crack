@@ -726,133 +726,133 @@
         "answer": "Exception handling allows a program to handle runtime errors using try-catch blocks, ensuring smooth execution."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "hr",
         "question": "Tell me about yourself.",
         "answer": "Provide a brief introduction about your academic background, professional experience, and what motivates you."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "hr",
-        "question": "Why do you want to work at Accenture?",
-        "answer": "Discuss your interest in Accenture’s global presence, innovative approach, and opportunities for career growth."
+        "question": "Why do you want to work at accenture?",
+        "answer": "Discuss your interest in accenture’s global presence, innovative approach, and opportunities for career growth."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "hr",
         "question": "What are your strengths and weaknesses?",
         "answer": "Highlight your key strengths, such as adaptability, and mention a weakness you are working to improve."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "hr",
         "question": "How do you handle pressure and tight deadlines?",
         "answer": "Explain how you stay organized, prioritize tasks, and manage stress effectively under pressure."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "hr",
-        "question": "What do you know about Accenture?",
-        "answer": "Mention Accenture’s leadership in consulting, technology services, and digital transformation across industries."
+        "question": "What do you know about accenture?",
+        "answer": "Mention accenture’s leadership in consulting, technology services, and digital transformation across industries."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "hr",
         "question": "Can you describe a time when you worked in a team?",
         "answer": "Provide an example of collaboration where you contributed towards achieving team objectives."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "hr",
         "question": "Where do you see yourself in five years?",
-        "answer": "Discuss your long-term career goals and how Accenture offers the environment and opportunities to help you achieve them."
+        "answer": "Discuss your long-term career goals and how accenture offers the environment and opportunities to help you achieve them."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "hr",
         "question": "What motivates you?",
         "answer": "Explain your passion for innovation, problem-solving, and the opportunity to make a positive impact in the industry."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "hr",
         "question": "How do you approach learning new technologies?",
         "answer": "Describe how you stay updated with industry trends and how you approach learning and implementing new technologies."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "hr",
         "question": "Are you open to relocating or working in different time zones?",
         "answer": "Express your willingness to adapt and work in a flexible environment to meet the company’s needs."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "What is the difference between a primary key and a foreign key in a database?",
         "answer": "A primary key uniquely identifies a record in a table, while a foreign key establishes a relationship between two tables."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "What is a RESTful API?",
         "answer": "A RESTful API is a web service that follows the principles of Representational State Transfer, using HTTP methods like GET, POST, PUT, DELETE."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "What is the difference between overloading and overriding in Java?",
         "answer": "Overloading is defining multiple methods with the same name but different parameters, while overriding is redefining a method in a subclass."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "What is the concept of polymorphism in OOP?",
         "answer": "Polymorphism allows objects to take on different forms, either through method overriding or method overloading."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "Explain the difference between a stack and a queue.",
         "answer": "A stack follows LIFO (Last In, First Out) order, while a queue follows FIFO (First In, First Out) order."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "What is SQL injection, and how do you prevent it?",
         "answer": "SQL injection is a security vulnerability that allows an attacker to interfere with SQL queries. It can be prevented by using parameterized queries or prepared statements."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "What is the purpose of garbage collection in Java?",
         "answer": "Garbage collection automatically frees up memory by removing objects that are no longer in use."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "What are the differences between a linked list and an array?",
         "answer": "An array has a fixed size and uses contiguous memory, while a linked list has dynamic size and uses nodes with pointers."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "What is a hash table?",
         "answer": "A hash table is a data structure that stores key-value pairs and uses a hash function to map keys to specific locations in the table."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "Explain the concept of microservices.",
         "answer": "Microservices architecture breaks down applications into smaller, independent services that can be deployed and scaled individually."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "What is an index in SQL?",
         "answer": "An index is a database object that improves the speed of data retrieval operations on a table at the cost of additional space and slower write operations."
     },
     {
-        "cname": "Accenture",
+        "cname": "accenture",
         "type": "technical",
         "question": "What is the purpose of the 'final' keyword in Java?",
         "answer": "The 'final' keyword in Java is used to declare constants, prevent method overriding, and prevent inheritance of a class."
