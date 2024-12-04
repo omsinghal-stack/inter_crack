@@ -1246,5 +1246,599 @@
         "type": "technical",
         "question": "What is a data dictionary in oracle?",
         "answer": "A data dictionary is a set of read-only tables and views that provide metadata about the database, including information on tables, columns, and privileges."
+    },
+    {
+        "cname": "mindtree",
+        "type": "hr",
+        "question": "tell us about yourself.",
+        "answer": "provide a brief introduction including your education, skills, and relevant experiences."
+    },
+    {
+        "cname": "mindtree",
+        "type": "hr",
+        "question": "why do you want to join mindtree?",
+        "answer": "explain your interest in the company’s values, work culture, and opportunities for growth."
+    },
+    {
+        "cname": "mindtree",
+        "type": "hr",
+        "question": "where do you see yourself in five years?",
+        "answer": "discuss your career goals and how they align with the company’s vision."
+    },
+    {
+        "cname": "mindtree",
+        "type": "hr",
+        "question": "what are your strengths and weaknesses?",
+        "answer": "share your key strengths and an honest but constructive weakness."
+    },
+    {
+        "cname": "mindtree",
+        "type": "hr",
+        "question": "how do you handle stress or pressure?",
+        "answer": "explain techniques like prioritizing tasks or maintaining a positive mindset."
+    },
+    {
+        "cname": "mindtree",
+        "type": "hr",
+        "question": "can you describe a situation where you worked in a team?",
+        "answer": "share an experience highlighting your role and contribution to a team project."
+    },
+    {
+        "cname": "mindtree",
+        "type": "hr",
+        "question": "why should we hire you?",
+        "answer": "explain how your skills and experiences make you a perfect fit for the role."
+    },
+    {
+        "cname": "mindtree",
+        "type": "hr",
+        "question": "do you have any questions for us?",
+        "answer": "ask about the company's growth plans, work culture, or specific role responsibilities."
+    },
+    {
+        "cname": "mindtree",
+        "type": "hr",
+        "question": "how do you manage conflicts in a team setting?",
+        "answer": "describe a structured approach like understanding perspectives and finding solutions collaboratively."
+    },
+    {
+        "cname": "mindtree",
+        "type": "hr",
+        "question": "are you open to relocating or working in different shifts?",
+        "answer": "answer honestly based on your flexibility and preferences."
+    },
+    {
+        "cname": "mindtree",
+        "type": "technical",
+        "question": "what is the purpose of exception handling in java?",
+        "answer": "exception handling allows a program to handle runtime errors using try-catch blocks, ensuring smooth execution."
+    },
+    {
+        "cname": "mindtree",
+        "type": "technical",
+        "question": "can you explain oops concepts?",
+        "answer": "oops concepts include encapsulation, inheritance, polymorphism, and abstraction for modular programming."
+    },
+    {
+        "cname": "mindtree",
+        "type": "technical",
+        "question": "what is the difference between http and https?",
+        "answer": "https is the secure version of http, using ssl/tls for data encryption."
+    },
+    {
+        "cname": "mindtree",
+        "type": "technical",
+        "question": "what are the key features of sql?",
+        "answer": "sql features include data query, update, insert, delete, and schema creation and modification."
+    },
+    {
+        "cname": "mindtree",
+        "type": "technical",
+        "question": "explain the difference between stack and queue.",
+        "answer": "stack follows lifo (last in, first out), while queue follows fifo (first in, first out)."
+    },
+    {
+        "cname": "mindtree",
+        "type": "technical",
+        "question": "what is the purpose of an api?",
+        "answer": "apis enable communication between different software applications by defining rules and protocols."
+    },
+    {
+        "cname": "mindtree",
+        "type": "technical",
+        "question": "how does garbage collection work in java?",
+        "answer": "garbage collection automatically removes unused objects from memory, managed by the jvm."
+    },
+    {
+        "cname": "mindtree",
+        "type": "technical",
+        "question": "what is the difference between get and post methods in http?",
+        "answer": "get appends data to the url, while post sends data in the request body for better security."
+    },
+    {
+        "cname": "mindtree",
+        "type": "technical",
+        "question": "what is recursion?",
+        "answer": "recursion is a programming technique where a function calls itself to solve a smaller subproblem."
+    },
+    {
+        "cname": "mindtree",
+        "type": "technical",
+        "question": "can you explain the software development lifecycle (sdlc)?",
+        "answer": "sdlc involves phases like planning, design, development, testing, deployment, and maintenance."
+    },
+    {
+        "cname": "hexaware",
+        "type": "hr",
+        "question": "tell us about yourself.",
+        "answer": "provide a brief introduction including your education, skills, and relevant experiences."
+    },
+    {
+        "cname": "hexaware",
+        "type": "hr",
+        "question": "why do you want to join hexaware?",
+        "answer": "explain your interest in the company’s values, work culture, and opportunities for growth."
+    },
+    {
+        "cname": "hexaware",
+        "type": "hr",
+        "question": "how do you handle constructive criticism?",
+        "answer": "explain how you take feedback positively and use it to improve your performance."
+    },
+    {
+        "cname": "hexaware",
+        "type": "hr",
+        "question": "what motivates you to perform well in your job?",
+        "answer": "share factors like learning opportunities, teamwork, or achieving goals as motivators."
+    },
+    {
+        "cname": "hexaware",
+        "type": "hr",
+        "question": "how do you manage your time effectively?",
+        "answer": "explain techniques like prioritization, scheduling, and avoiding distractions."
+    },
+    {
+        "cname": "hexaware",
+        "type": "hr",
+        "question": "describe a challenging project you worked on.",
+        "answer": "discuss the challenges faced, your role, and how you overcame them."
+    },
+    {
+        "cname": "hexaware",
+        "type": "hr",
+        "question": "what are your career aspirations?",
+        "answer": "share your long-term goals and how the company can help you achieve them."
+    },
+    {
+        "cname": "hexaware",
+        "type": "hr",
+        "question": "how do you prioritize tasks when under pressure?",
+        "answer": "explain how you assess task urgency and create a structured plan."
+    },
+    {
+        "cname": "hexaware",
+        "type": "hr",
+        "question": "can you work well in a team environment?",
+        "answer": "share an example where teamwork helped achieve a goal efficiently."
+    },
+    {
+        "cname": "hexaware",
+        "type": "hr",
+        "question": "do you have any questions for us?",
+        "answer": "ask about the company’s projects, technologies used, or team structure."
+    },
+    {
+        "cname": "hexaware",
+        "type": "technical",
+        "question": "what is the difference between an abstract class and an interface in java?",
+        "answer": "an abstract class can have both abstract and concrete methods, while an interface only has abstract methods (before java 8)."
+    },
+    {
+        "cname": "hexaware",
+        "type": "technical",
+        "question": "how do you optimize a sql query?",
+        "answer": "use indexes, avoid subqueries, and analyze query execution plans."
+    },
+    {
+        "cname": "hexaware",
+        "type": "technical",
+        "question": "what is normalization in databases?",
+        "answer": "normalization organizes data to reduce redundancy and improve integrity."
+    },
+    {
+        "cname": "hexaware",
+        "type": "technical",
+        "question": "what is the purpose of a load balancer?",
+        "answer": "it distributes network or application traffic across multiple servers to ensure reliability and performance."
+    },
+    {
+        "cname": "hexaware",
+        "type": "technical",
+        "question": "can you explain the difference between rest and soap apis?",
+        "answer": "rest is lightweight and uses http protocols, while soap is more rigid and uses xml-based messaging."
+    },
+    {
+        "cname": "hexaware",
+        "type": "technical",
+        "question": "what is polymorphism in object-oriented programming?",
+        "answer": "polymorphism allows a single interface to represent different underlying forms, like method overloading and overriding."
+    },
+    {
+        "cname": "hexaware",
+        "type": "technical",
+        "question": "how does garbage collection work in java?",
+        "answer": "garbage collection automatically deallocates unused objects to free up memory."
+    },
+    {
+        "cname": "hexaware",
+        "type": "technical",
+        "question": "what is the difference between a thread and a process?",
+        "answer": "a process is an independent program in execution, while a thread is a smaller unit of a process."
+    },
+    {
+        "cname": "hexaware",
+        "type": "technical",
+        "question": "how do you secure a web application?",
+        "answer": "implement measures like input validation, secure authentication, and encryption protocols."
+    },
+    {
+        "cname": "hexaware",
+        "type": "technical",
+        "question": "what are microservices?",
+        "answer": "microservices are a software architecture style where an application is divided into loosely coupled, independently deployable services."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "hr",
+        "question": "tell us about yourself.",
+        "answer": "provide a brief introduction including your education, skills, and relevant experiences."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "hr",
+        "question": "why do you want to join persistent systems?",
+        "answer": "explain your interest in the company’s innovative projects, culture, and career opportunities."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "hr",
+        "question": "what are your long-term career goals?",
+        "answer": "share your vision for growth and how the company aligns with it."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "hr",
+        "question": "what are your strengths and weaknesses?",
+        "answer": "highlight your strengths and mention a manageable weakness with a plan to overcome it."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "hr",
+        "question": "how do you handle tight deadlines?",
+        "answer": "explain your approach to prioritization, organization, and stress management."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "hr",
+        "question": "describe a situation where you had to take initiative.",
+        "answer": "share a specific example where your proactive actions made a positive impact."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "hr",
+        "question": "how do you manage conflicts within a team?",
+        "answer": "discuss strategies like open communication and seeking mutual solutions."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "hr",
+        "question": "what motivates you at work?",
+        "answer": "explain factors like problem-solving, learning new skills, or achieving goals."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "hr",
+        "question": "are you open to relocating or working flexible hours?",
+        "answer": "answer honestly based on your personal preferences and flexibility."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "hr",
+        "question": "do you have any questions for us?",
+        "answer": "ask about the company’s upcoming projects, team structure, or learning opportunities."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "technical",
+        "question": "what is the difference between a primary key and a unique key in sql?",
+        "answer": "a primary key uniquely identifies a record and cannot be null, while a unique key also ensures uniqueness but allows a single null value."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "technical",
+        "question": "what is an index in databases, and why is it used?",
+        "answer": "an index improves the speed of data retrieval by providing quick access to rows in a table."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "technical",
+        "question": "explain the difference between process and thread.",
+        "answer": "a process is a standalone execution unit with its memory space, while a thread is a smaller unit of execution within a process."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "technical",
+        "question": "what is the use of the final keyword in java?",
+        "answer": "the final keyword can be used with variables (to make them constants), methods (to prevent overriding), and classes (to prevent inheritance)."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "technical",
+        "question": "what is a foreign key in a database?",
+        "answer": "a foreign key is a field in one table that refers to the primary key in another table, establishing a relationship between the two tables."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "technical",
+        "question": "what are the principles of oops?",
+        "answer": "the principles include encapsulation, inheritance, polymorphism, and abstraction."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "technical",
+        "question": "what is a deadlock in operating systems?",
+        "answer": "a deadlock occurs when two or more processes are waiting for each other’s resources indefinitely."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "technical",
+        "question": "explain the difference between rest and soap apis.",
+        "answer": "rest is stateless, lightweight, and uses various formats like json, while soap is protocol-driven and uses xml exclusively."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "technical",
+        "question": "what are joins in sql? explain the types.",
+        "answer": "joins are used to combine rows from two or more tables based on a related column. types include inner, left, right, and full outer joins."
+    },
+    {
+        "cname": "persistent systems",
+        "type": "technical",
+        "question": "how do you optimize a java application for better performance?",
+        "answer": "use techniques like reducing object creation, efficient data structures, multithreading, and profiling tools."
+    },
+    {
+        "cname": "lti",
+        "type": "hr",
+        "question": "tell us about yourself.",
+        "answer": "provide a brief introduction including your education, skills, and relevant experiences."
+    },
+    {
+        "cname": "lti",
+        "type": "hr",
+        "question": "why do you want to join lti?",
+        "answer": "explain your interest in the company’s innovative projects, work culture, and career opportunities."
+    },
+    {
+        "cname": "lti",
+        "type": "hr",
+        "question": "what are your strengths and weaknesses?",
+        "answer": "highlight your strengths and mention a manageable weakness with a plan to improve it."
+    },
+    {
+        "cname": "lti",
+        "type": "hr",
+        "question": "how do you handle work under pressure?",
+        "answer": "describe your approach to staying calm, prioritizing tasks, and meeting deadlines."
+    },
+    {
+        "cname": "lti",
+        "type": "hr",
+        "question": "where do you see yourself in five years?",
+        "answer": "share your career aspirations and how lti can help you achieve them."
+    },
+    {
+        "cname": "lti",
+        "type": "hr",
+        "question": "how do you handle conflicts in a team?",
+        "answer": "explain your approach to open communication, understanding perspectives, and finding solutions."
+    },
+    {
+        "cname": "lti",
+        "type": "hr",
+        "question": "can you work well in a dynamic environment?",
+        "answer": "share an example where you adapted to changes effectively."
+    },
+    {
+        "cname": "lti",
+        "type": "hr",
+        "question": "what motivates you to perform well at work?",
+        "answer": "explain factors like learning opportunities, teamwork, or achieving goals."
+    },
+    {
+        "cname": "lti",
+        "type": "hr",
+        "question": "are you open to relocation and flexible working hours?",
+        "answer": "answer honestly based on your preferences and flexibility."
+    },
+    {
+        "cname": "lti",
+        "type": "hr",
+        "question": "do you have any questions for us?",
+        "answer": "ask about the company’s growth plans, technologies used, or team structure."
+    },
+    {
+        "cname": "lti",
+        "type": "technical",
+        "question": "what is the difference between an array and a linked list?",
+        "answer": "arrays have a fixed size and contiguous memory allocation, while linked lists have dynamic size and non-contiguous memory allocation."
+    },
+    {
+        "cname": "lti",
+        "type": "technical",
+        "question": "explain the concept of inheritance in object-oriented programming.",
+        "answer": "inheritance allows one class to acquire properties and behaviors of another class, promoting code reuse."
+    },
+    {
+        "cname": "lti",
+        "type": "technical",
+        "question": "what are joins in sql? explain their types.",
+        "answer": "joins combine rows from two or more tables based on related columns. types include inner, left, right, and full outer joins."
+    },
+    {
+        "cname": "lti",
+        "type": "technical",
+        "question": "what is the difference between rest and soap apis?",
+        "answer": "rest is lightweight, stateless, and supports multiple formats like json, while soap is protocol-based and uses xml exclusively."
+    },
+    {
+        "cname": "lti",
+        "type": "technical",
+        "question": "explain multithreading in java.",
+        "answer": "multithreading allows concurrent execution of two or more threads to improve application performance."
+    },
+    {
+        "cname": "lti",
+        "type": "technical",
+        "question": "how does garbage collection work in java?",
+        "answer": "garbage collection automatically removes unused objects to free up memory."
+    },
+    {
+        "cname": "lti",
+        "type": "technical",
+        "question": "what is the difference between sql and nosql databases?",
+        "answer": "sql databases are structured and use tables, while nosql databases are schema-less and store data in various formats like documents or key-value pairs."
+    },
+    {
+        "cname": "lti",
+        "type": "technical",
+        "question": "what is polymorphism in oops?",
+        "answer": "polymorphism allows a single interface to represent different underlying forms, such as method overloading and overriding."
+    },
+    {
+        "cname": "lti",
+        "type": "technical",
+        "question": "what is a deadlock in operating systems?",
+        "answer": "a deadlock occurs when two or more processes are waiting for each other’s resources indefinitely."
+    },
+    {
+        "cname": "lti",
+        "type": "technical",
+        "question": "how would you secure a web application?",
+        "answer": "implement input validation, use secure authentication methods, and apply encryption protocols."
+    },
+    {
+        "cname": "mphasis",
+        "type": "hr",
+        "question": "tell us about yourself.",
+        "answer": "provide a brief introduction including your education, skills, and relevant experiences."
+    },
+    {
+        "cname": "mphasis",
+        "type": "hr",
+        "question": "why do you want to work at mphasis?",
+        "answer": "explain your interest in the company’s innovative approach, work culture, and growth opportunities."
+    },
+    {
+        "cname": "mphasis",
+        "type": "hr",
+        "question": "what are your strengths and weaknesses?",
+        "answer": "highlight your strengths and mention a manageable weakness with a plan to improve it."
+    },
+    {
+        "cname": "mphasis",
+        "type": "hr",
+        "question": "how do you handle challenging situations at work?",
+        "answer": "share an example of how you approach difficult situations, focusing on problem-solving and perseverance."
+    },
+    {
+        "cname": "mphasis",
+        "type": "hr",
+        "question": "where do you see yourself in the next 5 years?",
+        "answer": "discuss your career aspirations and how mphasis aligns with your growth path."
+    },
+    {
+        "cname": "mphasis",
+        "type": "hr",
+        "question": "how do you prioritize your tasks?",
+        "answer": "explain your method of evaluating urgency and importance, and how you manage multiple tasks efficiently."
+    },
+    {
+        "cname": "mphasis",
+        "type": "hr",
+        "question": "how do you work in a team?",
+        "answer": "talk about your communication skills, your ability to collaborate, and how you contribute to the team’s success."
+    },
+    {
+        "cname": "mphasis",
+        "type": "hr",
+        "question": "how do you stay motivated in your work?",
+        "answer": "explain what drives you, whether it’s meeting deadlines, learning new skills, or achieving team goals."
+    },
+    {
+        "cname": "mphasis",
+        "type": "hr",
+        "question": "are you willing to relocate?",
+        "answer": "answer based on your flexibility and openness to relocation."
+    },
+    {
+        "cname": "mphasis",
+        "type": "hr",
+        "question": "do you have any questions for us?",
+        "answer": "ask about the team structure, projects, or opportunities for growth at mphasis."
+    },
+    {
+        "cname": "mphasis",
+        "type": "technical",
+        "question": "what is the difference between an array and a linked list?",
+        "answer": "arrays have a fixed size and contiguous memory allocation, while linked lists are dynamic and use non-contiguous memory."
+    },
+    {
+        "cname": "mphasis",
+        "type": "technical",
+        "question": "what is the difference between rest and soap web services?",
+        "answer": "rest is lightweight, stateless, and supports various formats like JSON, whereas soap is more rigid, protocol-based, and uses XML exclusively."
+    },
+    {
+        "cname": "mphasis",
+        "type": "technical",
+        "question": "what is a constructor in object-oriented programming?",
+        "answer": "a constructor is a special method used to initialize objects when a class is instantiated."
+    },
+    {
+        "cname": "mphasis",
+        "type": "technical",
+        "question": "what is polymorphism in object-oriented programming?",
+        "answer": "polymorphism allows methods to have different behaviors based on the object they are acting upon, enabling code reuse and flexibility."
+    },
+    {
+        "cname": "mphasis",
+        "type": "technical",
+        "question": "explain the concept of inheritance in OOP.",
+        "answer": "inheritance allows one class to inherit properties and behaviors from another, promoting code reuse."
+    },
+    {
+        "cname": "mphasis",
+        "type": "technical",
+        "question": "what are the different types of joins in SQL?",
+        "answer": "the main types of joins are inner join, left join, right join, and full outer join."
+    },
+    {
+        "cname": "mphasis",
+        "type": "technical",
+        "question": "what is the purpose of the 'final' keyword in Java?",
+        "answer": "the 'final' keyword can be applied to variables (making them constants), methods (preventing overriding), and classes (preventing inheritance)."
+    },
+    {
+        "cname": "mphasis",
+        "type": "technical",
+        "question": "what is a deadlock in operating systems?",
+        "answer": "a deadlock occurs when two or more processes are waiting for each other to release resources, leading to a state where neither can proceed."
+    },
+    {
+        "cname": "mphasis",
+        "type": "technical",
+        "question": "explain the concept of multithreading.",
+        "answer": "multithreading allows multiple threads to run concurrently, improving performance and responsiveness in applications."
     }
 ]

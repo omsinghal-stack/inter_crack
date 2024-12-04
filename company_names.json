@@ -38,5 +38,25 @@
     {
         "id": 10,
         "cname": "oracle"
+    },
+    {
+        "id":11,
+        "cname":"mindtree"
+    },
+    {
+        "id":12,
+        "cname":"persistent systems"
+    },
+    {
+        "id":13,
+        "cname":"hexaware"
+    },
+    {
+        "id":14,
+        "cname":"lti"
+    },
+    {
+        "id":15,
+        "cname":"mphasis"
     }
 ]
